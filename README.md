@@ -12,4 +12,4 @@ Ex:
 We chose [this dataset](https://www.kaggle.com/datasets/ruthgn/new-orleans-airbnb-listings-and-reviews?select=new_orleans_airbnb_listings.csv) about AirBnB reviews in New Orleans. The dataset gathers together 345953 reviews of 6028 listings in the 67 districts of New Orleans.
 For the purposes of this project we focused on the Uptown district, which has 6087 reviews over 98 listings.
 
-The project was developed with the collaboration of Andrea Segala
+The project was developed with the collaboration of [Andrea Segala](https://github.com/andreasegala)
